@@ -28,8 +28,8 @@ Soy entusiasta por generar impacto, comprendí que me adapto y desenvuelvo en cu
 - Figma
 
 ### Actualmente y futuro.
--Estoy trabajando en Burger Queen.
--Me gustaría sumergirme en el mundo de Angular (conocer otros framework), y trabajar en mi inglés, llevarlo a un nivel más alto.
+- Estoy trabajando en Burger Queen.
+- Me gustaría sumergirme en el mundo de Angular (conocer otros framework), y trabajar en mi inglés, llevarlo a un nivel más alto.
 
 ### Hobbies: 
 - Eco-caminatas
